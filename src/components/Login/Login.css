@@ -1,0 +1,26 @@
+h2{
+    font-size: 35px;
+    color: #0A9396;
+
+}
+form input{
+    display: block;
+    padding: 15px 25px;
+    width: 40%;
+    background-color: #94D2BD;
+    border: none;
+    margin: 30px auto;
+    border-radius: 12px;
+    font-size: 18px;
+}
+form input:last-child{
+    background-color: #001219;
+    margin: 20px auto;
+    display: block;
+    width: 15%;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 12px;
+    color: #fff;
+    font-size: 20px;
+}

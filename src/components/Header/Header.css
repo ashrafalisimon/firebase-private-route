@@ -9,6 +9,6 @@
     font-size: 20px;
     color: #fff;
 }
-.active-link{
+.header nav a:hover{
     color: #001219;
 }
