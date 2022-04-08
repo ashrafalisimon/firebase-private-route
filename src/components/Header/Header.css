@@ -1,0 +1,14 @@
+.header{
+    background-color: #17BEBB;
+    padding: 30px 50px;
+   
+}
+.header nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+.active-link{
+    color: #001219;
+}
